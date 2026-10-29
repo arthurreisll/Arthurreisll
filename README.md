@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá, eu sou o Arthur Reis 👋
 
-<!--
-**arthurreisll/Arthurreisll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Estudante de ADS @ UNICIV | Em busca de me tornar um Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+- 💻 Foco atual: Python, HTML e JavaScript
+- 🌱 Estudando para me tornar um Desenvolvedor Full Stack
+- 🎯 Objetivo: Em busca do meu primeiro Estágio em TI
+- 📍 Sete Lagoas e BH - Minas Gerais, Brasil
+- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/arthurreisll)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📂 Meus Projetos em destaque
+- 🌐 Em breve: novos projetos em carreira tech com foco em Web
+
+---
+⭐️ Do Brasil para o mundo: Em busca de me tornar um Dev Full Stack.
